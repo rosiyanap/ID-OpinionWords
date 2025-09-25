@@ -1115,6 +1115,7 @@ tiada duanya
 tidak egois
 tidak ternilai
 tokoh
+tolong
 TOP
 trendi
 tulang punggung
@@ -1135,4 +1136,5 @@ Wow
 WOW
 yakin
 yay
+
 yeah
