@@ -1,4 +1,3 @@
-acungan jempol
 adaptif
 adil
 afinitas
@@ -886,3 +885,4 @@ WOW
 yakin
 yay
 yeah
+
