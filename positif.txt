@@ -8,8 +8,6 @@ ajaib
 aklamasi
 akomodatif
 akurat
-alhamdulillah
-allahu akbar
 altruistis
 aman
 amanah
@@ -885,4 +883,5 @@ WOW
 yakin
 yay
 yeah
+
 
