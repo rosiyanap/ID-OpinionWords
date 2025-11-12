@@ -14,7 +14,6 @@ amanah
 amat
 ambisius
 andal
-aneh
 anggun
 angkat
 antusias
@@ -24,7 +23,6 @@ apresiasi
 asli
 aspirasi
 asyik
-bagos
 bagus
 bahagia
 baik
@@ -35,7 +33,6 @@ banyak
 bebas
 bekerja
 benar
-benar-benar
 beradaptasi
 beralasan
 berani
@@ -45,7 +42,6 @@ berbakat
 bercacat
 bercahaya
 bercanda
-bercita-cita
 berdebar
 berdedikasi
 berdikari
@@ -80,7 +76,6 @@ berkualitas
 berlimpah
 berlimpah-limpah
 bermanfaat
-bermanuver
 bermartabat
 bernilai
 berpendidikan
@@ -89,8 +84,6 @@ berpengaruh
 berpijar
 bersatu
 bersemangat
-bersenang-senang
-bersenda gurau
 berseri
 bersih
 bersinar
@@ -106,19 +99,15 @@ bijak
 bijaksana
 bimbingan
 bonus
-boros
-brilian
 cahaya
 cakap
 cantik
 cekatan
-cemas
 cemerlang
 cepat
 cerah
 cerdas
 cerdik
-cergas
 cermat
 cetar
 cinta
@@ -130,7 +119,6 @@ dermawan
 dewasa
 diakses
 diakui
-dianggap baik
 dibaca
 dibebaskan
 diberikan
@@ -169,7 +157,7 @@ ditingkatkan
 diverifikasi
 dorongan
 duanya
-Dukung
+dukung
 dukungan
 edukatif
 efektif
@@ -883,5 +871,6 @@ WOW
 yakin
 yay
 yeah
+
 
 
