@@ -8,7 +8,6 @@ ajaib
 aklamasi
 akomodatif
 akurat
-altruistis
 aman
 amanah
 amat
@@ -871,6 +870,7 @@ WOW
 yakin
 yay
 yeah
+
 
 
 
