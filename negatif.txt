@@ -283,7 +283,6 @@ dosa
 downgrade
 drastis
 drop-out
-dua wajah
 dugaan
 duka
 dukun
@@ -1731,3 +1730,4 @@ volatil
 vulgar
 wabah
 was-was
+
