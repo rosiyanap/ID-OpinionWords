@@ -27,6 +27,7 @@ bahagia
 baik
 bakat
 bangga
+bantu
 bantuan
 banyak
 bebas
@@ -870,6 +871,7 @@ WOW
 yakin
 yay
 yeah
+
 
 
 
