@@ -888,6 +888,7 @@ misteri
 misterius
 mitos
 momok
+molor
 mubazir
 munafik
 mundur
@@ -906,6 +907,7 @@ naif
 najis
 nakal
 ndeso
+nihil
 negatif
 nekat
 nepotisme
@@ -1316,3 +1318,4 @@ volatil
 vulgar
 wabah
 was-was
+
