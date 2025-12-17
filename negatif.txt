@@ -261,6 +261,7 @@ hang
 haram
 hasutan
 hedon
+henti
 hedonistik
 hina
 histeri
@@ -1147,6 +1148,7 @@ rumor
 runtuh
 rusak
 rusuh
+rugi
 sabotase
 sakit
 sakitan
@@ -1318,4 +1320,5 @@ volatil
 vulgar
 wabah
 was-was
+
 
