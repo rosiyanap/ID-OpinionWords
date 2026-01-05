@@ -83,7 +83,6 @@ berkurang
 bermasalah
 bermuram
 bermusuhan
-berpura-pura
 bersakit
 bersedih
 bersekongkol
@@ -91,7 +90,6 @@ berselisih
 berserakan
 bersetubuh
 bersisik
-bertele-tele
 bertengkar
 bertentangan
 berteriak
@@ -768,7 +766,6 @@ menghujat
 menghukum
 mengigau
 mengikis
-mengindoktrinasikan
 mengingkari
 mengintai
 mengintimidasi
@@ -778,8 +775,6 @@ mengkhawatirkan
 mengkhianati
 mengkritik
 mengoceh
-mengolesi
-mengolok-olok
 mengomel
 mengorbankan
 mengotori
@@ -920,12 +915,9 @@ ngelantur
 ngeri
 ngomel
 non-aktif
-nyaring
-nyeri
 nyinyir
 obsesif
 ocehan
-ogah-ogahan
 omelan
 oposisi
 overakting
@@ -1085,7 +1077,6 @@ pertikaian
 perusak
 pesimis
 pesimisme
-pesimistis
 pesuruh
 picik
 pidana
@@ -1093,12 +1084,6 @@ pikun
 pincang
 pingsan
 pisah
-pisau
-piuh
-plin-plan
-polusi
-prasangka
-pratfall
 prihatin
 primitif
 protes
@@ -1112,7 +1097,6 @@ pusing
 putus
 racun
 radikal
-radikalisasi
 ragu
 raksasa
 rampasan
@@ -1128,7 +1112,6 @@ rendahan
 rentan
 represi
 represif
-reruntuhan
 resah
 resesi
 retak
@@ -1226,7 +1209,6 @@ tengkar
 teralihkan
 terasing
 terbalik
-terbandingkan
 terbatas
 terbawah
 terbelakang
@@ -1239,11 +1221,9 @@ terburuk
 tercela
 tercemar
 terduga
-terfragmentasi
 tergagap
 terganggu
 tergenang
-tergesa-gesa
 terhalang
 terhambat
 terhina
@@ -1273,7 +1253,6 @@ terpencil
 terpengaruh
 terperangkap
 terperanjat
-terputus-putus
 tersandung
 tersangka
 tersangkut
@@ -1282,7 +1261,6 @@ terselesaikan
 terselubung
 tersembunyi
 tersendat
-tersentak-sentak
 tersiksa
 tersinggung
 tersumbat
@@ -1295,7 +1273,6 @@ tertempa
 tertinggal
 tertipu
 terurai
-tiba-tiba
 tidak
 tikungan
 timbunan
@@ -1305,12 +1282,10 @@ tolol
 tragedi
 tragis
 trauma
-traumatis
 tuduhan
 tumbang
 tumpul
 tunggul
-ugal-ugalan
 umpatan
 usang
 usil
@@ -1319,6 +1294,3 @@ virus
 volatil
 vulgar
 wabah
-was-was
-
-
